@@ -1,3 +1,4 @@
-# My Awesome Book
+# Something about clean code
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is going to document something when reading the grand book_ Clean Code._ And a sample introduction is waiting for first review.
+
