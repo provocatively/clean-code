@@ -53,7 +53,7 @@
 没有意义的区分，给一个例子：
 
     public static void copyChars(char a1[], char a2[]) {
-      for (int i = 0; i < a1; i++) {
+      for (int i = 0; i < a1.length; i++) {
         a2[i] = a1[i];
       }
     }
