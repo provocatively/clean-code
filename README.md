@@ -1,4 +1,12 @@
 # Something about clean code
 
-This book is going to document something when reading the grand book_ Clean Code._ And a sample introduction is waiting for first review.
+阅读本书有两个原因：第一，你是个程序员；第二，你想成为更好的程序员。
+按照这本书前言的描述，主要分为了三个部分，
+前几章介绍编写整洁代码的原则、模式和实践。
+这部分有很多的示例代码。
+读完这几章就为阅读第二部分打下了基础。
+第一章着重介绍整洁代码相关的意义。
+第二章从命名的角度阐述了什么是我们需要的整洁代码。
+（未完）
+
 
