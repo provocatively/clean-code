@@ -1,7 +1,8 @@
 # Something about clean code
 
 [![license:mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/MIT)
-[![Stories in Ready](https://badge.waffle.io/AlanJager/clean-code.svg?label=ready&title=Ready)](http://waffle.io/AlanJager/clean-code)
+[![Throughput Graph](https://graphs.waffle.io/provocatively/clean-code/throughput.svg)](https://waffle.io/provocatively/clean-code/metrics/throughput)
+
 
 # Contents
 
