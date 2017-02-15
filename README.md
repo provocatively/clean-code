@@ -1,6 +1,8 @@
 # Something about clean code
 
 [![license:mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/MIT)
+[![Throughput Graph](https://graphs.waffle.io/provocatively/clean-code/throughput.svg)](https://waffle.io/provocatively/clean-code/metrics/throughput)
+
 
 # Contents
 
