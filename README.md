@@ -47,7 +47,7 @@ Update
 Discussing
 ----------
 - [submit issue](https://github.com/provocatively/clean-code/issues)
-- email: msjdxhc@gmail.com 
+- email: alanjager@outlook.com
 
 Icon
 ----
